@@ -1,6 +1,6 @@
 //jshint esversion:6
 
-exports.getDate = function() {
+exports.getDate = ()=> {
 
   const today = new Date();
 
@@ -15,7 +15,7 @@ exports.getDate = function() {
 };
 
 
-exports.getDay = function () {
+exports.getDay = ()=> {
 
   const today = new Date();
 
