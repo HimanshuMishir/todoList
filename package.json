@@ -1,12 +1,12 @@
 {
-  "name": "todolist-v1",
+  "name": "todolist",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a web application to keep record of things to do.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Himanshu Mishra",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
